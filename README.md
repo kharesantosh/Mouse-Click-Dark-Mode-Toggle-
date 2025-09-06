@@ -1,5 +1,5 @@
 
-# Dark Mode Mouse Click Toggle — Chrome Extension (React + Vite, MV3)
+# Dark Mode Mouse Click Toggle — Chrome Extension
 
 Toggle **dark mode on any page with a simple mouse click**. Control it per-site with a React popup. The extension remembers your last dark/light state for each site.
 
